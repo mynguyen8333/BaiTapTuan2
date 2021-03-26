@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Bai2.3</string>
+    <string name="link1"> <a href="" >Mua sau</a></string>
+    <string name="link2"> <a href="" >Xem tại đây</a></string>
+    <string name="link3"> <a href="" >Nhập tại đây?</a></string>
 </resources>
